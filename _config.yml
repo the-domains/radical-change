@@ -6,9 +6,9 @@ color:
   saturation: 0.9355348106473684
   rhythmicContrast: 0.8775479346513748
   brandColors:
-    - '#A50000'
-    - '#FFFFFF'
-    - '#3B5998'
-    - '#000000'
-    - '#0096C1'
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
 name: radical change
