@@ -1,14 +1,26 @@
 layout_spectrum: 0.7726458753459156
-typography_spectrum: 0.0058823577128350735
-color:
-  brandStrength: 0.13222645898349583
-  lightness: 0.8814832414500415
-  saturation: 0.9355348106473684
-  rhythmicContrast: 0.8775479346513748
-  brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
 name: radical change
+typography_spectrum: 0.005882357712835073
+color:
+  brandStrength: 0.1322264589834958
+  saturation: 0.9355348106473684
+  brandColors:
+    - '#A50000'
+    - '#FFFFFF'
+    - '#3B5998'
+    - '#000000'
+    - '#0096C1'
+  lightness: 0.8814832414500415
+  rhythmicContrast: 0.8775479346513748
+collections:
+  - index:
+      navigable: true
+      path: /
+      number: 15
+      paginate: true
+    feed:
+      format: rss
+      path: /rss.xml
+      number: 10
+    permalink:
+      path: '/:title/'
